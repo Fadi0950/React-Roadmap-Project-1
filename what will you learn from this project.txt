@@ -1,0 +1,30 @@
+Abstract 
+
+1 - Creating Multiple componenets
+2 - React Router {
+    In React Route you will learn  LINK and NAVLINK and some additional features associated with both
+}
+
+3 - write you route and path in the main.jsx which will maake you understand how to navigate between different menus 
+such Home , About and so on.
+
+4 - By utilizing the useParams hook we get data from url and show it on a componenet which User.jsx
+
+5 - then we use fetch in Github.jsx to fetch some user data to the components, additionally we use some optimization
+using loader and create infoLoader function which is called in main.jsx in last router file.
+
+
+Functionality - 
+
+1 - Code - Code is completely written in javascript and for style we use tailwind.css 
+
+2 - Components code just for understand - https://github.com/hiteshchoudhary/chai-aur-react/blob/main/reactRouterNotes.md
+
+3 - the componets in this code is update and working well so consider the codebase components
+
+4 - we use tailwind.css for styling - https://tailwindcss.com/docs/guides/vite
+
+5 - the react project is created using - https://vitejs.dev/guide/
+
+cmd - npm create vite@latest - select project name,  and then javascript
+
