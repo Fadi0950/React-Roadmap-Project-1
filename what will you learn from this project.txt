@@ -13,6 +13,9 @@ such Home , About and so on.
 5 - then we use fetch in Github.jsx to fetch some user data to the components, additionally we use some optimization
 using loader and create infoLoader function which is called in main.jsx in last router file.
 
+6 - use a Layout.jsx file to create your layout and Outlet hook is used from react-router-dom
+
+7 - you have to install react-router
 
 Functionality - 
 
